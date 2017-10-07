@@ -1,0 +1,7 @@
+# Distribution / packaging
+.Python
+env/
+build/
+node_modules
+# Serverless directories
+.serverless
